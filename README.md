@@ -103,3 +103,7 @@ MySQL相关电子书，相对还不错
 > 《深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明》PDF
 
 这几本书都比较常见，一搜到处都是，实在不行看 [这里](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484157&idx=1&sn=54c2651462dd4c3c38479f9a0f73acf9&chksm=cf31eb2bf846623d01bfc92b68af1ee0dde894ce6b914ee059ddb9ba451efe8daddc32d71a43#rd)
+
+
+
+> 更多干货，欢迎关注微信公众号：囧么肥事
